@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my skills, projects,
 education, and contact details in a clean and responsive design.
 
 ## 🔗 Live Website
-https://github.com/Bhumika-Soni21/
+portfolio-indol-rho-65.vercel.app
 
 ## ✨ Features
 - Fully responsive design (mobile & desktop friendly)
